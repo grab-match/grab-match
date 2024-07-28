@@ -1,0 +1,1 @@
+export const COOKIES_ACCESS_TOKEN = 'access_token';
